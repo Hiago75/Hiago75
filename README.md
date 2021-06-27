@@ -1,13 +1,10 @@
-![bg][banner]
+## Kinda Full-Stack Developer who loves JavaScript and TypeScript
 
-## Kinda Full-Stack Developer who loves JavaScript and Typescript[typescript]
+🧠 Learning [NextJS], [TypeScript], [PostgreSQL]  
+💜 Loving [Node], [TypeScript], [NextJS], [React]
 
-🧠 Learning [NextJS][next], [TypeScript][typescript], [PostgreSQL][postgres]
-💜 Loving [Node][node], [TypeScript][typescript], [NextJS][next], [React][react]
-
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[react]: http://reactjs.org
-[next]: https://nextjs.org
-[typescript]: https://www.typescriptlang.org
-[node]: https://nodejs.org/en/
-[postgres]: https://www.postgresql.org/
+[React]: http://reactjs.org
+[NextJS]: https://nextjs.org
+[TypeScript]: https://www.typescriptlang.org
+[Node]: https://nodejs.org/en/
+[PostgreSQL]: https://www.postgresql.org/
