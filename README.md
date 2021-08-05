@@ -5,7 +5,7 @@
 <img width="230" height="230" align="right" src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-brenha/)
-![codewars](https://www.codewars.com/users/Hiago75/badges/micro)
+[![codewars](https://www.codewars.com/users/Hiago75/badges/micro)](https://www.codewars.com/users/Hiago75)
 ### A short description...
 
 ```javascript
