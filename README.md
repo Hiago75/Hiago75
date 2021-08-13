@@ -18,6 +18,9 @@ const hiago = {
     frontEnd: {
       js: ['React', 'NextJS', 'Styled-Components'],
     },
+    tests: {
+      js: ['Jest']
+    }
     databases: ['MySQL', 'PostgreSQL', 'SQLite'],
   },
   learning: {
