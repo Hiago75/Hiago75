@@ -29,8 +29,8 @@ const hiago = {
     onFuture: ['MongoDB', 'KnexJS', 'Prisma 2', 'GraphQL', 'NestJS', 'Python'],
   },
   workplace: {
-    company: Apiki,
-    position: Front-end Developer,
+    company: 'Apiki',
+    position: 'Front-end Developer',
   },
   getFutureGoal: () => {
     return 'To adquire experience and contribute to open source';
