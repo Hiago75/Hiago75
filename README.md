@@ -10,7 +10,7 @@
 
 ```javascript
 const hiago = {
-  codeOn: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  codeOn: ['PHP', 'JavaScript', 'TypeScript', 'HTML', 'CSS'],
   useTools: {
     backEnd: {
       js: ['Node', 'Express', 'TypeORM'],
@@ -29,8 +29,8 @@ const hiago = {
     onFuture: ['MongoDB', 'KnexJS', 'Prisma 2', 'GraphQL', 'NestJS', 'Python'],
   },
   workplace: {
-    company: undefined,
-    position: undefined,
+    company: Apiki,
+    position: Front-end Developer,
   },
   getFutureGoal: () => {
     return 'To adquire experience and contribute to open source';
