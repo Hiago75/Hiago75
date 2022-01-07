@@ -11,12 +11,13 @@
 ```javascript
 const hiago = {
   codeOn: ['PHP', 'JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  useTools: {
+  tools: {
     backEnd: {
+      php: ['PHP7', 'PHP8'],
       js: ['Node', 'Express', 'TypeORM'],
     },
     frontEnd: {
-      js: ['React', 'NextJS', 'Styled-Components'],
+      js: ['React', 'NextJS'],
     },
     tests: {
       js: ['Jest']
@@ -33,7 +34,7 @@ const hiago = {
     position: 'Front-end Developer',
   },
   getFutureGoal: () => {
-    return 'To adquire experience and contribute to open source';
+    return 'To adquire experience and contribute with the programming community';
   },
 };
 ```
