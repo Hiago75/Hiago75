@@ -14,7 +14,7 @@ const hiago = {
   tools: {
     backEnd: {
       php: ['PHP7', 'PHP8'],
-      js: ['Node', 'Express', 'TypeORM'],
+      js: ['Node', 'Express', 'TypeORM', 'Sequelize'],
     },
     frontEnd: {
       js: ['React', 'NextJS'],
