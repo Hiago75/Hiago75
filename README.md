@@ -10,14 +10,15 @@
 
 ```javascript
 const hiago = {
-  codeOn: ['PHP', 'JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  codeOn: ['PHP', 'JavaScript', 'TypeScript', 'Java', 'HTML', 'CSS'],
   tools: {
     backEnd: {
+      java,
       php: ['PHP7', 'PHP8'],
       js: ['Node', 'Express', 'TypeORM', 'Sequelize'],
     },
     frontEnd: {
-      js: ['React', 'NextJS'],
+      js: ['vanilla', 'React', 'NextJS'],
     },
     tests: {
       js: ['Jest']
@@ -25,13 +26,12 @@ const hiago = {
     databases: ['MySQL', 'PostgreSQL', 'SQLite'],
   },
   learning: {
-    fromZero: ['PostgreSQL'],
-    improving: ['NextJS', 'React', 'TypeORM', 'SQL DBs'],
-    onFuture: ['MongoDB', 'KnexJS', 'Prisma 2', 'GraphQL', 'NestJS', 'Python'],
+    improving: ['NextJS', 'React', 'SQL DBs'],
+    onFuture: ['MongoDB', 'KnexJS', 'Prisma 2', 'GraphQL', 'NestJS'],
   },
   workplace: {
-    company: 'Apiki',
-    position: 'Front-end Developer',
+    company: 'SoftExpert',
+    position: 'FullStack Developer',
   },
   getFutureGoal: () => {
     return 'To adquire experience and contribute with the programming community';
