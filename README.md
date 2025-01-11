@@ -13,28 +13,30 @@ const hiago = {
   codeOn: ['PHP', 'JavaScript', 'TypeScript', 'Java', 'HTML', 'CSS'],
   tools: {
     backEnd: {
-      java,
-      php: ['PHP7', 'PHP8'],
+      java: ['SpringBoot', 'Hibernate'],
+      php: ['Laravel'],
       js: ['Node', 'Express', 'TypeORM', 'Sequelize'],
     },
     frontEnd: {
       js: ['vanilla', 'React', 'NextJS'],
     },
     tests: {
-      js: ['Jest']
+      js: ['Jest', 'Enzyme']
+      java: ['JUnit']
+      php: ['PHPUnit']
     }
-    databases: ['MySQL', 'PostgreSQL', 'SQLite'],
+    databases: ['MySQL', 'PostgreSQL', 'SQLite', 'Oracle', 'SQLServer', 'MongoDB'],
   },
   learning: {
-    improving: ['NextJS', 'React', 'SQL DBs'],
-    onFuture: ['MongoDB', 'KnexJS', 'Prisma 2', 'GraphQL', 'NestJS'],
+    improving: ['Software Architecture'],
+    future: ['DevOps'],
   },
   workplace: {
     company: 'SoftExpert',
-    position: 'FullStack Developer',
+    position: 'Software Engineer | FullStack',
   },
   getFutureGoal: () => {
-    return 'To adquire experience and contribute with the programming community';
+    return 'To improve my knoledge and continue to deliver real value.';
   },
 };
 ```
