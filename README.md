@@ -21,8 +21,8 @@ const hiago = {
       js: ['vanilla', 'React', 'NextJS'],
     },
     tests: {
-      js: ['Jest', 'Enzyme']
-      java: ['JUnit']
+      js: ['Jest', 'Enzyme'],
+      java: ['JUnit'],
       php: ['PHPUnit']
     }
     databases: ['MySQL', 'PostgreSQL', 'SQLite', 'Oracle', 'SQLServer', 'MongoDB'],
