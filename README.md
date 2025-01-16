@@ -1,6 +1,6 @@
 
 ## Hi, I'm Hiago Brenha!
-*Full-Stack developer.* <img width="25" heigth="25" src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">
+*Full-Stack Software Engineer.* <img width="25" heigth="25" src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif">
 
 <img width="230" height="230" align="right" src="https://media.giphy.com/media/kBrSH5C4ps9nyNDo4S/giphy.gif">
 
