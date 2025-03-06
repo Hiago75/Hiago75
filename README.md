@@ -24,7 +24,7 @@ const hiago = {
       js: ['Jest', 'Enzyme'],
       java: ['JUnit'],
       php: ['PHPUnit']
-    }
+    },
     databases: ['MySQL', 'PostgreSQL', 'SQLite', 'Oracle', 'SQLServer', 'MongoDB'],
   },
   learning: {
